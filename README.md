@@ -10,4 +10,4 @@ ______
  ________________________________
 ## Conférence n°1 (19/10/21) - Big Data et Agriculture
 
-[Support conférence]
+[Support conférence](https://github.com/Certificat-Science-des-donnees-Big-Data/Conferences/blob/master/N7_agricolture_deep_learning.pdf)
