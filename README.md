@@ -7,7 +7,7 @@ ______
 - Conférence n°1 (19/10/21) - Big Data et Agriculture par Nicola LUMINARI, Head of Data Sciences chez Alteia
 - Conférence n°2 (9/11/21) - Big Data et Cybersécurité par Caroline DE RUBIANA, Chargée de mission CyberSécurité chez Add’Occ
 - Conférence n°3 (14/12/21) - Table ronde - Les algorithmes : pourquoi tant d'éthique ?
-- Conférence n°4 (prévu le 18/01/22) - Big Data et Météo
+- Conférence n°4 (prévue le 18/01/22) - Big Data et Météo
  ________________________________
 ## Conférence n°1 (19/10/21) - Big Data et Agriculture
 
