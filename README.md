@@ -26,5 +26,4 @@ ______
 ## Conférence n°4 (18/01/22) - Big Data et Météo
 
 [Support](https://github.com/Certificat-Science-des-donnees-Big-Data/Conferences/blob/master/Prez_ENSEEIHT2022_VincentChabot.pptx)
-
 [Rediffusion](https://www.youtube.com/watch?v=lkG8a0BzPww&list=PLraRSPzSutgkHrBu0oqnJRObny9v6-E8Q&index=1)
