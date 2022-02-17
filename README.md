@@ -30,5 +30,5 @@ ______
 
 ## Conférence n°5 (15/02/22) - Big Data et IA pour les véhicules autonomes et connectés
 
-[Support](https://drive.google.com/file/d/1OJAOX_EqxZ9da26xeXH4IWkS2IH2D7-P/view?usp=sharing)
+[Support](https://drive.google.com/file/d/1OJAOX_EqxZ9da26xeXH4IWkS2IH2D7-P/view?usp=sharing)  
 [Rediffusion](https://www.youtube.com/watch?v=q6ofJjjMbCQ)
