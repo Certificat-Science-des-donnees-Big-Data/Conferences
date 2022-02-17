@@ -8,7 +8,7 @@ ______
 - Conférence n°2 (9/11/21) - Big Data et Cybersécurité par Caroline DE RUBIANA, Chargée de mission CyberSécurité chez Add’Occ
 - Conférence n°3 (14/12/21) - Table ronde - Les algorithmes : pourquoi tant d'éthique ?
 - Conférence n°4 (18/01/22) - Big Data et Météo par Vicent Chabot, Data Sciencist chez Météo France
-- Conférence n°5 (prevue le 15/02/22) - Big Data et IA autour du véhicule autonome et connecté
+- Conférence n°5 (15/02/22) - Big Data et IA pour les véhicules autonomes et connectés par Olivier Flebus, Optimal Methods & Artificial Intelligence group leader chez Vitesco
  ________________________________
 ## Conférence n°1 (19/10/21) - Big Data et Agriculture
 
@@ -27,3 +27,8 @@ ______
 
 [Support](https://github.com/Certificat-Science-des-donnees-Big-Data/Conferences/blob/master/Prez_ENSEEIHT2022_VincentChabot.pptx)  
 [Rediffusion](https://www.youtube.com/watch?v=lkG8a0BzPww&list=PLraRSPzSutgkHrBu0oqnJRObny9v6-E8Q&index=1)
+
+## Conférence n°5 (15/02/22) - Big Data et IA pour les véhicules autonomes et connectés
+
+[Support](https://drive.google.com/file/d/1OJAOX_EqxZ9da26xeXH4IWkS2IH2D7-P/view?usp=sharing)
+[Rediffusion](https://www.youtube.com/watch?v=q6ofJjjMbCQ)
